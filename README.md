@@ -1,0 +1,2 @@
+# mercy
+Readme de proyecto
